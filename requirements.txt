@@ -1,0 +1,9 @@
+streamlit>=1.20.0
+openai-whisper>=20230314
+transformers>=4.34.0
+torch>=1.13.0
+sentencepiece
+pydub
+python-dotenv
+numpy
+
