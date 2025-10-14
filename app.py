@@ -126,6 +126,7 @@ else:
 # --- Footer ---
 st.markdown("""
 <div style='text-align:center; margin-top:50px; color:#888;'>
-    Made with ❤ by Lecture2Notes Team
+    Made with ❤ by SHIVATHARANI MOHAN
 </div>
+
 """, unsafe_allow_html=True)
